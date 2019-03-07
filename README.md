@@ -4,5 +4,11 @@ Also i have implemented react with redux in application.
 
 Note: Need to be install all dependancies. from both frontend and backend root directories run following command. 'npm install' To start server, please run 'npm run start' command from root directory, follow same procedure for Frontend as well.
 
+Following point I haven’t covered yet,
+1.	Search operation
+2.	Location
+
+I will covered above point in current week so please consider.
+
 Thanks and regards,
 Rahul
